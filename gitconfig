@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = elodie.yuan@hmail.com
+	name = Elodie Yuan
